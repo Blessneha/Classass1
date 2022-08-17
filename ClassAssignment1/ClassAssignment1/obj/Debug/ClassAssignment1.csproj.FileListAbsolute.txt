@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe.config
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.pdb
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.exe
+C:\Users\HP\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.pdb
